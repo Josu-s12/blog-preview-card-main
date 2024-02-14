@@ -146,7 +146,7 @@ body, html{
 @media(min-width:1024px){
     .background{   
         width: 350px;
-        height:600px;
+        height:700px;
         background:#ffff;
         border: solid black 1px;
         border-top-right-radius: 5%;
