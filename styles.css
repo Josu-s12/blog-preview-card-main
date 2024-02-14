@@ -154,7 +154,9 @@ body, html{
         border-bottom-left-radius: 5%;
         border-bottom-right-radius: 5%;
         overflow: hidden;
-        box-shadow: 7px 7px rgba(0, 0, 0,1);   
+        
+        box-shadow: 7px 7px rgba(0, 0, 0,1);
+        
    }
    h1{
     font-size: 25px;
@@ -202,8 +204,7 @@ body, html{
    .author{
     display: flex;
     margin-top: 45px; 
-    }
-
+}
 }
 
 /*FONTS*/
@@ -214,63 +215,4 @@ body, html{
 @font-face {
     font-family: light;
     src: url(./assets/fonts/Figtree-VariableFont_wght.ttf), format(light)
-}
-.background{   
-    width: 350px;
-    height:600px;
-    background:#ffff;
-    border: solid black 1px;
-    border-top-right-radius: 5%;
-    border-top-left-radius: 5%;
-    border-bottom-left-radius: 5%;
-    border-bottom-right-radius: 5%;
-    overflow: hidden;
-    box-shadow: 7px 7px rgba(0, 0, 0,1);   
-}
-h1{
-font-size: 25px;
-font-family: light, sans-serif;
-font-weight: 770;
-margin-bottom: 30px;
-}
-.content{
-padding: 20px;
-margin-top: 260px;
-}
-.l{
-    font-family: light;
-    width: 85px;
-    height:17px;
-    background-color:hsl(47, 88%, 63%);
-    margin-bottom: 18px;
-    text-align: center;
-    padding:8px ;
-    border-top-right-radius: 10%;
-    border-top-left-radius: 10%;
-    border-bottom-left-radius: 10%;
-    border-bottom-right-radius: 10%;
-    
-}
-p{
-font-family: light;
-margin-bottom: 20px;
-}
-
-span{
-font-family: light;
-font-weight: 900;
-}
-.space{
-line-height: 5px;
-color: rgba(0, 0, 0,0.3);
-}
-.avatar{
-width: 35px;
-height: 35px;
-margin-right: 15px;
-margin-top: -10px;
-}
-.author{
-display: flex;
-margin-top: 45px; 
 }
