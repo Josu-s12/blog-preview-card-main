@@ -145,8 +145,8 @@ body, html{
 /*DESKTOP*/
 @media(min-width:1024px){
     .background{   
-        width: 350px;
-        height:900px;
+        width:450px;
+        height:600px;
         background:#ffff;
         border: solid black 1px;
         border-top-right-radius: 5%;
