@@ -14,7 +14,7 @@ body, html{
     
     .background{   
         width: 92%;
-        height:61%;
+        height:71%;
         background:#ffff;
         border: solid black 1px;
         border-top-right-radius: 5%;
@@ -24,9 +24,9 @@ body, html{
         overflow: hidden;
         margin-top: 30%;
         margin-bottom:30%;
-        margin-right: 3%;
+        margin-right: 5%;
         margin-left:3% ;
-        box-shadow: 10px 10px rgba(0, 0, 0,1);
+        box-shadow: 7px 7px rgba(0, 0, 0,1);
         
    }
    h1{
@@ -37,7 +37,7 @@ body, html{
    }
    .content{
     padding: 30px;
-    margin-top: 220px;
+    margin-top: 270px;
    }
    .l{
         font-family: light;
